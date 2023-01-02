@@ -16,4 +16,5 @@ chat": {
             "id": taketheidfromhere,
             
             
-            ![Capture](https://user-images.githubusercontent.com/3158485/210216933-bea90092-6c9f-4134-80f4-e045c58b3b9e.PNG)
+![image](https://user-images.githubusercontent.com/3158485/210216985-c1e855ff-d127-4dbf-9248-1c04c94116e0.PNG)
+
